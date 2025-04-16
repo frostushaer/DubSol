@@ -32,6 +32,12 @@ pip install -r requirements.txt
 
 ---
 
+## To run 
+
+python .\DubSol\main.py --video .\inputs\test.mp4 
+
+---
+
 ## 🧩 Features Yet to Come
 
 - 🗣️ **Voice Cloning**: Clone the speaker's voice to preserve tone and personality.
