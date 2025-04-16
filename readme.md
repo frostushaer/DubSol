@@ -69,6 +69,3 @@ python .\DubSol\main.py --video .\inputs\test.mp4
 
 ---
 
----
-
-Let me know if you'd like a version with emojis stripped or tailored for GitHub Pages. Want me to generate a `requirements.txt` based on the current modules?
